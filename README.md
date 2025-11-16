@@ -1,7 +1,7 @@
 # Ex09 Event Registration Web Application
 
 
-## AIM:
+## AIM: 
 To design, develop and deploy a web application for event registration.
 
 ## DESIGN STEPS:
